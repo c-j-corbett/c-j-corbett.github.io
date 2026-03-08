@@ -1,13 +1,12 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-}
+
 
 #cv {
     font-family: 'Courier New', Courier, monospace;
     color: darkgreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
 #main {

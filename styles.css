@@ -1,10 +1,12 @@
-background-container {
-    background-image: url('/background.png');
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    width: 100%;
-}
+body {
+    background-image: url("background.png");
+    background-size: cover;       /* makes image cover entire page */
+    background-repeat: no-repeat; /* prevents tiling */
+    background-position: center;  /* centers image */
+    height: 100vh;
+    margin: 0;
+  }
+
 
 main {
     display: flex;

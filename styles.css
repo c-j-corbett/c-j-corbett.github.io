@@ -12,6 +12,9 @@ header {
     align-items: center;
     justify-content: center;
     height: 100%;
+}
+
+body {
     font-family: 'Courier New', Courier, monospace;
     color: darkgreen;
 }

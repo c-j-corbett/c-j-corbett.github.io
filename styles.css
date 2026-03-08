@@ -1,19 +1,13 @@
-#cv {
-    font-family: 'Courier New', Courier, monospace;
-    color: darkgreen;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-}
-
 #main {
     background-image: url("background.png");
     display: flex;
+    padding: 20px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
 }
 
 

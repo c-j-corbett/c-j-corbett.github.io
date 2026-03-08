@@ -10,4 +10,12 @@ body {
     color: darkgreen;
 }
 
+footer{
+    margin-top: 20px;
+    font-size: 0.8em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+    align-items: last baseline;
+}
+
 

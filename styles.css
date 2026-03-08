@@ -5,6 +5,11 @@ header {
     padding: 20px;
 }
 
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+}
+
 #main {
     background-image: url("background.png");
     display: flex;
@@ -14,7 +19,4 @@ header {
     height: 100%;
 }
 
-body {
-    font-family: 'Courier New', Courier, monospace;
-    color: darkgreen;
-}
+

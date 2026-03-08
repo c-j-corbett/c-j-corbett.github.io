@@ -7,13 +7,7 @@ header {
 }
 
 body {
-    background-image: url("c-j-corbett.github.io/background.png");
-    background-size: cover;       /* makes image cover entire page */
-    background-repeat: no-repeat; /* prevents tiling */
-    background-position: center;  /* centers image */
-    height: 100vh;
-    margin: 0;
-    background-color : #333; /* dark text for better contrast */
+    background-image: url("/background.png");
 }
 
 
